@@ -1,9 +1,11 @@
-GITHUB repository of Davide Marchesini
+# GITHUB repository of Davide Marchesini
 
-Contains
+## Contains
 
--various code usefull for students and new to the programming world so I don't lose them
+- various code usefull for students and new to the programming world so I don't lose them, the languages are root Cern, python, C++, Arduino... and more
 
--all the usefull report of my activity as a bachelor and master student
+- all the usefull reports of my activity as a bachelor and master student with the relatives codes
 
--different papers regarding my activity 
+- different papers regarding my activity in internships
+
+- personal projects of mine regarding simulations and hardware
